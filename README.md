@@ -1,9 +1,5 @@
 
 ## :wave: Hello, I'm Masato Takamura
-<a href="https://myoctocat.dev/@mtkmr/octocat">
-<img src="https://user-images.githubusercontent.com/67818255/127858601-698ed646-83c7-4d3f-a80c-d9238b6dad85.png" alt="octocat" title="image" width="200" height="200" align="right">
-</a>
-
 - I’m looking for a job in iOS app development :eyes:
 
 - I’m currently learning Swift :computer:
