@@ -16,9 +16,12 @@
 
 
 ## :fire: Github stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtkmr&hide=contribs&count_private=true&show_icons=true&border_radius=10&theme=dracula)](https://github.com/mtkmr/github-readme-stats)
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtkmr&border_radius=10&theme=dracula)](https://github.com/mtkmr/github-readme-stats)
+<a href="https://github.com/mtkmr/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mtkmr&count_private=true&show_icons=true&hide=contribs&theme=dracula" />
+</a>
+<a href="https://github.com/mrkmr/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtkmr&theme=dracula" />
+</a>  
 
 ## :wrench: My favorite tools
 <p align="left"> 
