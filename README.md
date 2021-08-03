@@ -13,10 +13,10 @@
 
 ## :fire: Github stats
 <a href="https://github.com/mtkmr/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mtkmr&count_private=true&show_icons=true&hide=contribs&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mtkmr&count_private=true&show_icons=true&hide=contribs&theme=nord" />
 </a>
 <a href="https://github.com/mrkmr/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtkmr&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtkmr&theme=nord" />
 </a>  
 
 ## :wrench: My favorite tools
