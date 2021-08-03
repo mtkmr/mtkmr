@@ -37,6 +37,6 @@
   <a href="https://twitter.com/msttkmr">
   <img src="https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge">
   </a>
-  <a href="http://twitter.com/mtkmr">
+  <a href="http://twitter.com/msttkmr">
   <img src="https://img.shields.io/badge/-Qiita-55C500.svg?logo=qiita&logoColor=white&style=for-the-badge">
 </p>
