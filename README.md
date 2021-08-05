@@ -38,4 +38,8 @@
   </a>
   <a href="https://qiita.com/mtkmr">
   <img src="https://img.shields.io/badge/-Qiita-55C500.svg?logo=qiita&logoColor=white&style=for-the-badge">
+  </a>
+<!--   <a href="https://zenn.dev/mtakamura">
+  <img src="https://img.shields.io/badge/-Zenn-gray?style=for-the-badge">
+  </a> -->
 </p>
