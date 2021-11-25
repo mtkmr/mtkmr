@@ -1,14 +1,14 @@
 
 ## :wave: Hello, I'm Masato Takamura
-- I’m looking for a job in iOS app development :eyes:
+- I’m an iOS developer 👨‍🎨
 
-- I’m currently learning Swift :computer:
+- I’m currently learning Swift 📱
 
 - I’m interested in developing smartphone apps :heart:
 
 - I like to play tennis :tennis:
 
-- I listen to Japanese hip-hop music a lot :musical_note:
+- I listen to Japanese hip-hop music a lot 🎵
 
 
 ## :fire: Github stats
