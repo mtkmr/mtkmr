@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&logoColor=white&style=popout">
 </p>
 
-## :baby: Where to find me
+<!-- ## :baby: Where to find me
 <p align="left"> 
   <a href="https://github.com/mtkmr">
   <img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&logoColor=white&style=for-the-badge">
@@ -38,7 +38,7 @@
   </a>
   <a href="https://qiita.com/mtkmr">
   <img src="https://img.shields.io/badge/-Qiita-55C500.svg?logo=qiita&logoColor=white&style=for-the-badge">
-  </a>
+  </a> -->
 <!--   <a href="https://zenn.dev/mtakamura">
   <img src="https://img.shields.io/badge/-Zenn-gray?style=for-the-badge">
   </a> -->
