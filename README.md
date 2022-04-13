@@ -1,5 +1,5 @@
 
-## :wave: Hello, I'm Masato Takamura
+## :wave: Hello
 - I’m an iOS developer 👨‍🎨
 
 - I’m currently learning Swift 📱
