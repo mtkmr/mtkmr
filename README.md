@@ -1,17 +1,15 @@
 
 ## :wave: Hello
-- I’m an iOS developer 👨‍🎨
+- I’m an iOS app developer in Tokyo 👨‍🎨
 
-- I’m currently learning Swift 📱
-
-- I’m interested in developing smartphone apps :heart:
+- I love swift :heart:
 
 - I like to play tennis :tennis:
 
 - I listen to Japanese hip-hop music a lot 🎵
 
 
-## :fire: Github stats
+<!-- ## :fire: Github stats
 <a href="https://github.com/mtkmr/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=mtkmr&count_private=true&show_icons=true&hide=contribs&theme=nord" />
 </a>
@@ -28,7 +26,7 @@
 <img src="https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&logoColor=white&style=popout">
 </p>
 
-<!-- ## :baby: Where to find me
+## :baby: Where to find me
 <p align="left"> 
   <a href="https://github.com/mtkmr">
   <img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&logoColor=white&style=for-the-badge">
@@ -41,5 +39,5 @@
   </a> -->
 <!--   <a href="https://zenn.dev/mtakamura">
   <img src="https://img.shields.io/badge/-Zenn-gray?style=for-the-badge">
-  </a> -->
-</p>
+  </a>
+</p>  -->
